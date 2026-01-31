@@ -29,7 +29,7 @@ export const exampleWeatherData = [
         "solarTerm": "谷雨",
         "lunarDate": "己巳年三月廿二",
         "moonPhase": "Waxing Crescent",
-        "dailySummary": "111111"
+        "dailySummary": "111111",
         "sun": { "sunrise": "05:50", "sunset": "18:43" },
         "hourlyTemp": [8.4, 7.6, 9.1, 6.9, 7.2, 6.8, 5.0, 7.4, 11.4, 14.3, 16.1, 17.4, 18.4, 19.3, 19.7, 19.8, 19.7, 19.1, 18.2, 16.8, 15.3, 14.3, 13.1, 12.3],
         "hourlyHumidity": [87, 89, 81, 90, 89, 90, 95, 91, 79, 64, 53, 48, 45, 43, 43, 44, 44, 48, 55, 62, 67, 73, 76, 81],
